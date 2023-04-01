@@ -1,5 +1,3 @@
-# tek2_Unix-Prog.-Memory
-
 ## Description of module
 Next installment of the first year's UNIX system programming unit. All projects are to be exclusively done in C/UNIXX (given that it's the next installment of the 1st year's PSU), except when explicitly stated otherwise in the subject:  
 
