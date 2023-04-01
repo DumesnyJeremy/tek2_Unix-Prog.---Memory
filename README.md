@@ -15,6 +15,20 @@ In order to validate this unit, you must show, through your project, that you ha
 - "Group work management"
 
 ## PDF of the projects
-[B-PSU-400_nm-objdump.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.---Memory/files/11130654/B-PSU-400_nm-objdump.pdf)
+[B-MAT-400_201yams.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130732/B-MAT-400_201yams.pdf)
 
-[B-PSU-400_malloc.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.---Memory/files/11130659/B-PSU-400_malloc.pdf)
+[B-MAT-400_202unsold.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130731/B-MAT-400_202unsold.pdf)
+
+[B-MAT-400_203hotline.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130730/B-MAT-400_203hotline.pdf)
+
+[B-MAT-400_204ducks.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130729/B-MAT-400_204ducks.pdf)
+
+[B-MAT-400_205IQ.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130728/B-MAT-400_205IQ.pdf)
+
+[B-MAT-400_206neutrinos.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130736/B-MAT-400_206neutrinos.pdf)
+
+[B-MAT-400_207demography.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130735/B-MAT-400_207demography.pdf)
+
+[B-MAT-400_208dowels.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130734/B-MAT-400_208dowels.pdf)
+
+[B-MAT-400_209poll.pdf](https://github.com/DumesnyJeremy/tek2_Unix-Prog.-Memory/files/11130733/B-MAT-400_209poll.pdf)
